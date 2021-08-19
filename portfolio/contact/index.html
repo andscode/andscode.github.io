@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-tw"><head>
   <meta charset="utf-8" />
-  <title>派狗狗之家</title>
+  <title>Contact</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -96,110 +96,60 @@
   </div>
 </nav>
 <main>
-
-
-  
-  <!-- Site Hero Start -->
-  <section class="site-hero" style="background-image: url('images/backgrounds/hero-background2.jpg');">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <div class="site-hero-content text-center">
-            <h6></h6>
-            <h1>
-              Never underestimate your power to change yourself!
-            </h1>
-            <ul class="site-hero-content-buttons">
-              <li>
-                <a href="http://https:/andscode.github.io/portfolio" class="btn btn-secondary">
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          Don’t be shy. Say <span>Hello.</span>
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>TELL US ABOUT YOUR PROJECT</h4>
+          <form id="contact-form" action="https://formspree.io/myykjpje" method="POST">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+              </div>
+              <div class="col-lg-6">
+                <div class="select-wrapper">
+                  <select class="form-control" id="projectType" name="project-type">
+                    <option value="" selected disabled hidden>Project Type</option>
+                    
+                    <option value="talking">閒聊</option>
+                    
+                    <option value="wd">工作</option>
+                    
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="You can say anything to me ~"></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
                   <span class="btn-area">
-                    <span data-text="See my Post">
-                      See my Post
+                    <span data-text="Send Message">
+                      Send Message
                     </span>
                   </span>
-                </a>
-              </li>
-              <li>
-                <a href="http://https:/andscode.github.io/contact" class="btn btn-primary">
-                  <span class="btn-area">
-                    <span data-text="Connect with me">
-                      Connect with me
-                    </span>
-                  </span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <a href="#counter" class="site-hero-scroll scroll-to">
-      <img src="images/arrow-down.svg" alt="arrow-down">
-    </a>
-  </section>
-  <!-- Site Hero End -->
-  
-
-
-
-  
-  <section class="site-counter" id="counter">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="section-title">
-            <h2 class="text-white">Side Projects</h2>
-          </div>
-        </div>
-        
-      </div>
-    </div>
-  </section>
-  
-
-
-
-  
-  <section class="site-project" id="project">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="section-title">
-            <h2>My Post</h2>
-            <p>My work sharing.</p>
-          </div>
-        </div>
-        
-        <div class="col-lg-6 col-md-10 mx-auto">
-          <div class="site-project-item">
-            <div class="site-project-item-thumb">
-              <img src="http://https:/andscode.github.io/images/projects/spacegame/space.jpg" alt="project-thumb">
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
             </div>
-            <div class="site-project-item-content">
-              <span>PRODUCT LABEL</span>
-              <h3>太空大戰</h3>
-              <a href="http://https://andscode.github.io/portfolio/spacegame/" class="read-more">view project</a>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-12 text-center text-lg-left">
-          <a href="portfolio" class="site-project-cta">MORE WORKS</a>
+          </form>
         </div>
       </div>
     </div>
-  </section>
-  
-
-
-
-  
-
-
-
-  
-
-
+  </div>
+</section>
 
         </main><footer class="site-footer">
   <div class="container">

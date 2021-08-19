@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>派狗狗之家</title>
-    <link>http://https://andscode.github.io/</link>
-    <description>Recent content on 派狗狗之家</description>
+    <title>My Blog on 派狗狗之家</title>
+    <link>http://https://andscode.github.io/blog/</link>
+    <description>Recent content in My Blog on 派狗狗之家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 17 Aug 2021 11:20:33 +0800</lastBuildDate><atom:link href="http://https://andscode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="http://https://andscode.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No2.RG144 DESTINY GUNDAM</title>
       <link>http://https://andscode.github.io/blog/destiny/</link>
@@ -19,15 +19,6 @@
  持劍型態 持槍型態   這次運噴筆噴起來的感覺跟噴罐根本沒得比，在噴塗的均勻度控制上手感好多了，另外這次加了刻線加深讓滲墨時可以滲得均勻，使得裝甲的立體感也更加重了!
    在最後噴了消光透明漆後也改善了上次水貼凸出的問題，讓水貼再增加細節的同時不會顯得特別突兀，整體的感覺又更上了一個層次。
    最後這次的作品完成度可以說是非常高了，硬要說的話下次可以試試使用遮噴讓同一塊的部件有更多的層次，還有這次手塗翅膀銀漆的部分也沒有說到很細緻(手好抖~)，另外下次也可以試著稍微改造一下。</description>
-    </item>
-    
-    <item>
-      <title>太空大戰</title>
-      <link>http://https://andscode.github.io/portfolio/spacegame/</link>
-      <pubDate>Thu, 06 Aug 2020 12:00:42 +0800</pubDate>
-      
-      <guid>http://https://andscode.github.io/portfolio/spacegame/</guid>
-      <description>遊戲介紹 遊戲遊玩畫面 吃到閃電會讓武器變強 吃到盾牌會回血 這個遊戲是學習網路上的教學一步一步做出來的，在做遊戲的過程中讓我對於python中import,def,class的應用都有更加深入的理解，也學到了如何將python的檔案匯出成.exe檔讓其他人可以下載來遊玩。 另外就算未來工作不是做遊戲創作，這次的project也是一個不錯的練習，畢竟學習讀懂他人的程式對於未來也會有幫助的。 我認為學習的過程為:模仿-&amp;gt;改造-&amp;gt;創造，所以接下來我的目標會試著讓這個遊戲改變得更有趣一些! </description>
     </item>
     
     <item>
