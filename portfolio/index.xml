@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My &lt;span&gt;project&lt;/span&gt; and what I learn by myself  on 派狗狗之家</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in My &lt;span&gt;project&lt;/span&gt; and what I learn by myself  on 派狗狗之家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太空大戰</title>
+      <link>http://example.org/portfolio/spacegame/</link>
+      <pubDate>Thu, 06 Aug 2020 12:00:42 +0800</pubDate>
+      
+      <guid>http://example.org/portfolio/spacegame/</guid>
+      <description>遊戲介紹 遊戲遊玩畫面 吃到閃電會讓武器變強 吃到盾牌會回血 這個遊戲是學習網路上的教學一步一步做出來的，在做遊戲的過程中讓我對於python中import,def,class的應用都有更加深入的理解，也學到了如何將python的檔案匯出成.exe檔讓其他人可以下載來遊玩。 另外就算未來工作不是做遊戲創作，這次的project也是一個不錯的練習，畢竟學習讀懂他人的程式對於未來也會有幫助的。 我認為學習的過程為:模仿-&amp;gt;改造-&amp;gt;創造，所以接下來我的目標會試著讓這個遊戲改變得更有趣一些! </description>
+    </item>
+    
+  </channel>
+</rss>
