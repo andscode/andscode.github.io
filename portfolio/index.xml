@@ -22,7 +22,7 @@
       <pubDate>Sat, 10 Jul 2021 12:00:42 +0800</pubDate>
       
       <guid>https://andscode.github.io/portfolio/en/</guid>
-      <description>在學習程式地同時英文也是很重要的一部分，所以第一個小porject我決定做英文練習的程式。  程式碼: dict1={} n=int(input(&amp;#34;今天要背幾個單字? &amp;#34;)) for i in range(n): y=input(&amp;#34;請輸入第%d個單字: &amp;#34;%(i+1)) x=input(&amp;#34;請輸入單字的中文或意思: &amp;#34;) dict1[x]=y print() for key in dict1: rword=key print(key) word=input(&amp;#34;輸入單字: &amp;#34;) while word!</description>
+      <description>在學習程式的同時英文也是很重要的一部分，所以第一個小porject我決定做英文練習的程式。  程式碼: dict1={} n=int(input(&amp;#34;今天要背幾個單字? &amp;#34;)) for i in range(n): y=input(&amp;#34;請輸入第%d個單字: &amp;#34;%(i+1)) x=input(&amp;#34;請輸入單字的中文或意思: &amp;#34;) dict1[x]=y print() for key in dict1: rword=key print(key) word=input(&amp;#34;輸入單字: &amp;#34;) while word!</description>
     </item>
     
   </channel>
