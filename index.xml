@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>派狗狗之家1</title>
+    <title>派狗狗之家</title>
     <link>https://andscode.github.io/</link>
-    <description>Recent content on 派狗狗之家1</description>
+    <description>Recent content on 派狗狗之家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 17 Aug 2021 11:20:33 +0800</lastBuildDate><atom:link href="https://andscode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>英文練習程式</title>
+      <link>https://andscode.github.io/portfolio/en/</link>
+      <pubDate>Sat, 10 Jul 2021 12:00:42 +0800</pubDate>
+      
+      <guid>https://andscode.github.io/portfolio/en/</guid>
+      <description>在學習程式地同時英文也是很重要的一部分，所以第一個小porject我決定做英文練習的程式。  程式碼: dict1={} n=int(input(&amp;#34;今天要背幾個單字? &amp;#34;)) for i in range(n): y=input(&amp;#34;請輸入第%d個單字: &amp;#34;%(i+1)) x=input(&amp;#34;請輸入單字的中文或意思: &amp;#34;) dict1[x]=y print() for key in dict1: rword=key print(key) word=input(&amp;#34;輸入單字: &amp;#34;) while word!</description>
+    </item>
+    
     <item>
       <title>No2.RG144 DESTINY GUNDAM</title>
       <link>https://andscode.github.io/blog/destiny/</link>
